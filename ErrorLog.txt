@@ -1,0 +1,8 @@
+Error - Invalid Line - Wrong Number of Entries
+D,6.95
+Error - Invalid Price for Filet Mignon Filet Mignon $24.99
+Error - Invalid Line - Wrong Number of Entries
+
+Error - Invalid Line - Wrong Number of Entries
+B,Beer
+Error - Invalid Price for Red Wine Red Wine 
